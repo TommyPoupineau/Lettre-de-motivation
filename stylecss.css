@@ -99,6 +99,20 @@ span {
 	text-align: left;
 }
 
+.site {
+	flex-direction: column;
+	justify-content: center;
+	margin:auto;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: black;
+	background-color: grey;
+	opacity: 1;
+	font-family: verdana;
+	border: 5px solid black;
+	border-top: none;
+}
+
 
 footer {
 	display: flex;
