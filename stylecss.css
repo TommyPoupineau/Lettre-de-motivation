@@ -19,13 +19,6 @@ body{
 
 }
 
-.entête img {
-	min-width: 120px;
-	min-height: 150px;
-	max-width: 120px;
-	max-height: 150px;
-}
-
 .boutons {
 	display: flex;
 	flex-direction: row;
@@ -87,7 +80,7 @@ span {
 	padding-right: 5px;
 	color: black;
 	background-color: grey;
-	opacity: 0.7;
+	opacity: 1;
 	font-family: verdana;
 	border: 5px solid black;
 	border-top: none;
