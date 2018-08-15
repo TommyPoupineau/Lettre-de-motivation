@@ -1,8 +1,5 @@
 body{
-		background: url(https://www.theunicornsidekick.com/wp-content/uploads/2017/06/unicorn.png);
-		background-size: 15%;
-		background-repeat: repeat;
-		background-color: pink;
+		background-color: grey;
 	}
 
 .menu { 
@@ -12,31 +9,21 @@ body{
 	background-color: black;
 
 }
-.baniere {
+.entête {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: center;
-	font-family: verdana;
 	font-size: 30px;
 	color: white;
 
 }
 
-.baniere img {
+.entête img {
 	min-width: 120px;
 	min-height: 150px;
 	max-width: 120px;
 	max-height: 150px;
-}
-
-.cathead {
-		-moz-transform: scaleX(-1);
-        	-o-transform: scaleX(-1);
-      		-webkit-transform: scaleX(-1);
-        	transform: scaleX(-1);
-        	filter: FlipH;
-        	-ms-filter: "FlipH";
 }
 
 .boutons {
@@ -61,12 +48,11 @@ body{
 .boutons ul li a {
 	display: block;
 	float: left;
-	width: 150px; ----------------------
-	background-color: violet;
+	width: 150px;
+	background-color: grey;
 	color: white;
 	text-decoration: none;
 	text-align: center;
-	font-family: impact;
 	font-size: 20px;
 	font-size-adjust: auto;
 	padding: 10px;
@@ -75,7 +61,7 @@ body{
 }
 
 .boutons ul li a:hover {
-	background-color: #c97b9a;
+	background-color: black;
 
 }
 
@@ -93,7 +79,7 @@ span {
 }
 
 
-.qui {
+.texte {
 	flex-direction: column;
 	justify-content: center;
 	margin:auto;
@@ -109,44 +95,17 @@ span {
 	min-height: 600px;
 }
 
-.qui p {
+.texte p {
 	text-align: justify;
 }
 
-.qui h2 {
+.text h2 {
 	font-family: impact;
 	font-size: 40px;
 	text-decoration: underline;
 	text-align: left;
 }
 
-
-
-.solene {
-	flex-direction: column;
-	padding-right: 40px;
-	background-color: black;
-	color: white;
-	font-family: verdana;
-	width: 1000px;
-	
-}
-
-.solene li {
-	padding-bottom: 10px;
-
-}
-
-.solene ul li {
-	list-style-type: none;
-	text-align: left;
-	padding-left: 0;	
-}
-
-.solene img {
-	width: 120px;
-	height: 150px;
-}
 
 footer {
 	display: flex;
@@ -173,7 +132,7 @@ footer a {
 
 }
 
-.iconereso{
+.réseaux{
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
