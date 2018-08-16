@@ -1,0 +1,66 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="stylesite.css" />
+		<title>Présentation POUPINEAU Tommy pour le Cefim</title>
+	</head>
+
+	<body>
+		<header>
+
+			<div class="menu">	
+
+				<div class="entête">
+
+					<h1> POUPINEAU Tommy</h1>
+
+				</div>
+
+					<div class="boutons">
+
+					<ul>
+ 						<li><a href="index.html">Présentation</a></li>
+ 						<li><a href="Hobbies.html">Hobbies</a></li>
+ 						<li><a href="Contact.html">Contact</a></li>
+					</ul>
+
+				</div>
+
+			</div>	
+
+		</header>
+
+		<section>
+			
+			<div class="article">
+
+				<div class="texte">
+
+					<h2> Les moyens pour me contacter si besoin:  </h2>
+				
+					<p>
+						Téléphone: 06.47.78.20.86
+					</p>
+					<p>
+						E-Mail: tommy.poupineau@gmail.com
+					</p> 
+					<p>
+						Par pigeon voyageur (on sait jamais): 28 Rue Jules Simon 37000 Tours
+					</p>
+          
+				</div>
+		</div>
+
+		</section>
+
+			<footer>
+
+				<p><span>Mes réseaux sociaux:</span></p>
+
+					<div class="réseaux">
+						<a href="https://www.linkedin.com/in/tommy-poupineau-1b6abb166/" target="_blank"> <img src="https://image.ibb.co/ezDTj8/linkedin32.png" class="linkedin" alt="linkedin" ></a>
+						<a href="https://www.facebook.com/tommy.poupineau" target="_blank"><img src="https://image.ibb.co/cppOHT/facebook32.png" class="facebook" alt="facebook"></a>
+					</div>
+	</body>
+
+	</html>
