@@ -106,8 +106,8 @@ span {
 	flex-direction: column;
 	justify-content: center;
 	margin:auto;
-	padding-left: 5px;
-	padding-right: 5px;
+	padding-left: 33%;
+	padding-right: 33%;
 	color: black;
 	background-color: grey;
 	opacity: 1;
