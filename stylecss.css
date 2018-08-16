@@ -48,8 +48,10 @@ body{
 	text-align: center;
 	font-size: 20px;
 	font-size-adjust: auto;
-	padding: 10px;
+	padding: 6px 0 6px 0;
 	border-radius: 8px;
+	border: none;
+
 	
 
 }
